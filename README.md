@@ -4,13 +4,17 @@ Application Flutter en français présentant un CV, une galerie de proches et de
 
 ## Captures d’écran
 
-| Connexion | CV |
+| Connexion | CV — profil |
 |---|---|
-| ![Page de connexion](./test/screenshots/connexion.png) | ![Page CV](./test/screenshots/cv.png) |
+| ![Page de connexion](./test/screenshots/connexion.png) | ![CV — profil](./test/screenshots/cv.png) |
 
 | Famille | Contact |
 |---|---|
 | ![Page famille](./test/screenshots/famille.png) | ![Page contact](./test/screenshots/contact.png) |
+
+| CV — études et expériences |
+|---|
+| ![CV — études et expériences](./test/screenshots/parcours.png) |
 
 ## Lancer l’application
 
