@@ -26,12 +26,12 @@ Application Flutter de gestion de profil, de famille et d'étudiants.
 
 ### Première démonstration
 
-[![Vidéo 1](./docs/screenshots/01-connexion.png)](./docs/videos/enregistrement-095827.mp4)
+[![Vidéo 1](./docs/screenshots/01-connexion.png)](https://raw.githubusercontent.com/balamage/cv-flutter-francois-balamage/main/docs/videos/enregistrement-095827.mp4)
 
-[Voir la première vidéo](./docs/videos/enregistrement-095827.mp4)
+[Ouvrir ou télécharger la première vidéo](https://raw.githubusercontent.com/balamage/cv-flutter-francois-balamage/main/docs/videos/enregistrement-095827.mp4)
 
 ### Deuxième démonstration
 
-[![Vidéo 2](./docs/screenshots/02-accueil.png)](./docs/videos/enregistrement-100315.mp4)
+[![Vidéo 2](./docs/screenshots/02-accueil.png)](https://raw.githubusercontent.com/balamage/cv-flutter-francois-balamage/main/docs/videos/enregistrement-100315.mp4)
 
-[Voir la deuxième vidéo](./docs/videos/enregistrement-100315.mp4)
+[Ouvrir ou télécharger la deuxième vidéo](https://raw.githubusercontent.com/balamage/cv-flutter-francois-balamage/main/docs/videos/enregistrement-100315.mp4)
